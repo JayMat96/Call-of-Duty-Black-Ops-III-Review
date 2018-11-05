@@ -1,7 +1,5 @@
 # Call-of-Duty-Black-Ops-III-Review
 
-### Details
-
 ### Summary
 This game is about...
 
